@@ -1,6 +1,7 @@
 $('.btn').on('click', function(){
-  console.log("IT WORKED");
+  ('h4').slideToggle();
+  ('h3').slideToggle();
 });
 
 
-// <script>$('.btn').on('click', function(){console.log('Hi!')})</script>
+
