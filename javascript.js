@@ -1,3 +1,3 @@
-$('#btn').on('click', function(){
+$('.btn').on('click', function(){
   console.log("IT WORKED");
 });
