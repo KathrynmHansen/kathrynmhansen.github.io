@@ -1,6 +1,5 @@
 html{
-  background-image: url(https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-185873.png);
-  width: 100%;
+  background-image: black;
 } 
 h1{
   color: deeppink;
@@ -58,4 +57,7 @@ h4{
 .btn:active {
   position:relative;
   top:1px;
+}
+.personalPhoto{
+  background-image: url(http://imgur.com/a/3OWyj);
 }
