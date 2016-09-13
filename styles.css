@@ -61,3 +61,7 @@ h4{
 .personalPhoto{
   background-image: url(http://imgur.com/a/3OWyj);
 }
+.pic{
+  height:200px;
+  width:150px;
+}
